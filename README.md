@@ -1,1 +1,1 @@
-# upgraded_chatbot
+# code-prep-gemini-ai-course
